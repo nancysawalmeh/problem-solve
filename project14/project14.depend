@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693869460 source:c:\users\hp\documents\problem solve\project14\main.cpp
+	<iostream>
+	<limits.h>
+	<float.h>
+

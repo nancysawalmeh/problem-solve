@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694901772 source:c:\users\hp\documents\problem solve\project18\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+
